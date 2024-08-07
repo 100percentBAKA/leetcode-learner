@@ -26,10 +26,12 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/100percentBAKA/leetcode-learner/tree/master/0050-powx-n) |
+| [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -42,4 +44,8 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
