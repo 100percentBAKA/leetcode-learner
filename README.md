@@ -27,6 +27,7 @@ Repo to track my leetcode progress
 | ------- |
 | [0014-longest-common-prefix](https://github.com/100percentBAKA/leetcode-learner/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0020-valid-parentheses) |
+| [0812-rotate-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -59,4 +60,8 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/100percentBAKA/leetcode-learner/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
