@@ -25,6 +25,7 @@ Repo to track my leetcode progress
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0020-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -49,4 +50,8 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
