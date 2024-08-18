@@ -26,6 +26,7 @@ Repo to track my leetcode progress
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/100percentBAKA/leetcode-learner/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0205-isomorphic-strings) |
@@ -45,6 +46,7 @@ Repo to track my leetcode progress
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
 ## Sorting
 |  |
@@ -66,4 +68,8 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0812-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
