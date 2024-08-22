@@ -72,4 +72,8 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/100percentBAKA/leetcode-learner/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
