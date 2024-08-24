@@ -30,6 +30,7 @@ Repo to track my leetcode progress
 | [0014-longest-common-prefix](https://github.com/100percentBAKA/leetcode-learner/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0205-isomorphic-strings) |
 | [0812-rotate-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -40,6 +41,7 @@ Repo to track my leetcode progress
 | ------- |
 | [0043-multiply-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/100percentBAKA/leetcode-learner/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
 | [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -85,4 +87,9 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
