@@ -10,6 +10,7 @@ Repo to track my leetcode progress
 | [0026-remove-duplicates-from-sorted-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
+| [0485-max-consecutive-ones](https://github.com/100percentBAKA/leetcode-learner/tree/master/0485-max-consecutive-ones) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
