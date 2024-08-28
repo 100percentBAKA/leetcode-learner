@@ -7,6 +7,7 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
 ## Hash Table
@@ -58,6 +59,7 @@ Repo to track my leetcode progress
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
