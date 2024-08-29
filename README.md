@@ -9,6 +9,7 @@ Repo to track my leetcode progress
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/100percentBAKA/leetcode-learner/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/100percentBAKA/leetcode-learner/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/100percentBAKA/leetcode-learner/tree/master/0485-max-consecutive-ones) |
@@ -64,11 +65,13 @@ Repo to track my leetcode progress
 | [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/100percentBAKA/leetcode-learner/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/100percentBAKA/leetcode-learner/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
