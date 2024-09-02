@@ -40,6 +40,7 @@ Repo to track my leetcode progress
 | [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/100percentBAKA/leetcode-learner/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0205-isomorphic-strings) |
@@ -66,6 +67,7 @@ Repo to track my leetcode progress
 | [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/100percentBAKA/leetcode-learner/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/100percentBAKA/leetcode-learner/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -89,6 +91,7 @@ Repo to track my leetcode progress
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
