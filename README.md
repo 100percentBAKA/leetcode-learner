@@ -44,6 +44,7 @@ Repo to track my leetcode progress
 | [0043-multiply-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0205-isomorphic-strings) |
+| [0415-add-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/100percentBAKA/leetcode-learner/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -56,6 +57,7 @@ Repo to track my leetcode progress
 | [0050-powx-n](https://github.com/100percentBAKA/leetcode-learner/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0415-add-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -112,6 +114,7 @@ Repo to track my leetcode progress
 | ------- |
 | [0043-multiply-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/100percentBAKA/leetcode-learner/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
