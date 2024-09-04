@@ -23,20 +23,40 @@
 // }
 
 
+// class Solution {
+//     public boolean judgeSquareSum(int c) {
+//         if(c == 0) return true;
+
+//         Set<Integer> arr = new HashSet<>();
+
+//         for(int i = 0; i <= Math.sqrt(c); i++) {
+//             // System.out.println("adding " + (i * i));
+//             arr.add(i * i);
+//         }
+
+//         for(int i = 0; i < arr.size(); i++) {
+//             // System.out.println(c - (i * i));
+//             if(arr.contains(c - (i * i))) return true;
+//         }
+
+//         return false;
+//     }
+// }
+
+
 class Solution {
     public boolean judgeSquareSum(int c) {
         if(c == 0) return true;
 
-        Set<Integer> arr = new HashSet<>();
+        long r = (long) Math.sqrt(c);
+        long s = 0;
 
-        for(int i = 0; i <= Math.sqrt(c); i++) {
-            // System.out.println("adding " + (i * i));
-            arr.add(i * i);
-        }
+        while(s <= r) {
+            long result = (s * s) + (r * r);
 
-        for(int i = 0; i < arr.size(); i++) {
-            // System.out.println(c - (i * i));
-            if(arr.contains(c - (i * i))) return true;
+            if(result == c) return true;
+            else if(result > c) r--;
+            else s++;
         }
 
         return false;
