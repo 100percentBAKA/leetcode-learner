@@ -1,8 +1,6 @@
 class Solution {
-    public int longestOnes(int[] nums, int k) {
-        int[] arr = new int[1]; // just to store the previous occurence of 0
+    public int longestOnes(int[] nums, int k) { 
         int max = 0;
-
         int l = 0, r = 0, count = 0, prev = 0;
 
         for(; r < nums.length; r++) {
