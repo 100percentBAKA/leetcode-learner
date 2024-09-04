@@ -61,6 +61,7 @@ Repo to track my leetcode progress
 | [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0415-add-strings) |
+| [0633-sum-of-square-numbers](https://github.com/100percentBAKA/leetcode-learner/tree/master/0633-sum-of-square-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -75,6 +76,7 @@ Repo to track my leetcode progress
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/100percentBAKA/leetcode-learner/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/100percentBAKA/leetcode-learner/tree/master/0633-sum-of-square-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/100percentBAKA/leetcode-learner/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -131,5 +133,6 @@ Repo to track my leetcode progress
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/100percentBAKA/leetcode-learner/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
