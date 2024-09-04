@@ -43,6 +43,7 @@ Repo to track my leetcode progress
 | [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/100percentBAKA/leetcode-learner/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
@@ -104,6 +105,7 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/100percentBAKA/leetcode-learner/tree/master/0053-maximum-subarray) |
 ## Database
 |  |
@@ -135,4 +137,8 @@ Repo to track my leetcode progress
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/100percentBAKA/leetcode-learner/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/1046-max-consecutive-ones-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
