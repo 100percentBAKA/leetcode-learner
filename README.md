@@ -14,6 +14,7 @@ Repo to track my leetcode progress
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/100percentBAKA/leetcode-learner/tree/master/0485-max-consecutive-ones) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/100percentBAKA/leetcode-learner/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/1046-max-consecutive-ones-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/100percentBAKA/leetcode-learner/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -23,6 +24,7 @@ Repo to track my leetcode progress
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/100percentBAKA/leetcode-learner/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/100percentBAKA/leetcode-learner/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -30,6 +32,7 @@ Repo to track my leetcode progress
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/100percentBAKA/leetcode-learner/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/100percentBAKA/leetcode-learner/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
@@ -141,4 +144,8 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0022-generate-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/100percentBAKA/leetcode-learner/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
