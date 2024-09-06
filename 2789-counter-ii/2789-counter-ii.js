@@ -7,11 +7,13 @@ var createCounter = function(init) {
 
     return {
         increment: function() {
-            return ++anotherInit;
+            anotherInit += 1;
+            return anotherInit;
         },
         
         decrement: function() {
-            return --anotherInit;
+            anotherInit -= 1;
+            return anotherInit;
         },
 
         reset: function() {
