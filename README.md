@@ -12,6 +12,7 @@ Repo to track my leetcode progress
 | [0075-sort-colors](https://github.com/100percentBAKA/leetcode-learner/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
+| [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/100percentBAKA/leetcode-learner/tree/master/0485-max-consecutive-ones) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/100percentBAKA/leetcode-learner/tree/master/1034-subarrays-with-k-different-integers) |
@@ -87,9 +88,11 @@ Repo to track my leetcode progress
 | ------- |
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/100percentBAKA/leetcode-learner/tree/master/0075-sort-colors) |
+| [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 | [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -110,6 +113,7 @@ Repo to track my leetcode progress
 | [0005-longest-palindromic-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/100percentBAKA/leetcode-learner/tree/master/0053-maximum-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 ## Database
 |  |
 | ------- |
