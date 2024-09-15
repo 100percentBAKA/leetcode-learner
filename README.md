@@ -21,6 +21,7 @@ Repo to track my leetcode progress
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/100percentBAKA/leetcode-learner/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/100percentBAKA/leetcode-learner/tree/master/0424-longest-repeating-character-replacement) |
@@ -165,4 +166,13 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/100percentBAKA/leetcode-learner/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/100percentBAKA/leetcode-learner/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/100percentBAKA/leetcode-learner/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
