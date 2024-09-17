@@ -167,6 +167,7 @@ Repo to track my leetcode progress
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/100percentBAKA/leetcode-learner/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/0328-odd-even-linked-list) |
 ## Design
 |  |
 | ------- |
