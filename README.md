@@ -29,6 +29,7 @@ Repo to track my leetcode progress
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/100percentBAKA/leetcode-learner/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/100percentBAKA/leetcode-learner/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Repo to track my leetcode progress
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/1046-max-consecutive-ones-iii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/100percentBAKA/leetcode-learner/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Repo to track my leetcode progress
 | [0424-longest-repeating-character-replacement](https://github.com/100percentBAKA/leetcode-learner/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/100percentBAKA/leetcode-learner/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
@@ -149,6 +152,7 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/100percentBAKA/leetcode-learner/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Divide and Conquer
 |  |
 | ------- |
