@@ -13,6 +13,7 @@ Repo to track my leetcode progress
 | [0075-sort-colors](https://github.com/100percentBAKA/leetcode-learner/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/100percentBAKA/leetcode-learner/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/100percentBAKA/leetcode-learner/tree/master/0485-max-consecutive-ones) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
@@ -42,6 +43,7 @@ Repo to track my leetcode progress
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/100percentBAKA/leetcode-learner/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/1046-max-consecutive-ones-iii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/100percentBAKA/leetcode-learner/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
