@@ -80,6 +80,7 @@ Repo to track my leetcode progress
 | ------- |
 | [0050-powx-n](https://github.com/100percentBAKA/leetcode-learner/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/100percentBAKA/leetcode-learner/tree/master/0203-remove-linked-list-elements) |
+| [2573-remove-nodes-from-linked-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0020-valid-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Repo to track my leetcode progress
 | [0146-lru-cache](https://github.com/100percentBAKA/leetcode-learner/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/100percentBAKA/leetcode-learner/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/0328-odd-even-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -193,4 +196,8 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/100percentBAKA/leetcode-learner/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
