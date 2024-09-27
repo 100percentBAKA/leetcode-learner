@@ -17,6 +17,7 @@ Repo to track my leetcode progress
 | [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/100percentBAKA/leetcode-learner/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/100percentBAKA/leetcode-learner/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0503-next-greater-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/100percentBAKA/leetcode-learner/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/1046-max-consecutive-ones-iii) |
@@ -112,6 +113,7 @@ Repo to track my leetcode progress
 | ------- |
 | [0020-valid-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/100percentBAKA/leetcode-learner/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0503-next-greater-element-ii) |
 | [2573-remove-nodes-from-linked-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
@@ -203,5 +205,6 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/100percentBAKA/leetcode-learner/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0503-next-greater-element-ii) |
 | [2573-remove-nodes-from-linked-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
