@@ -74,6 +74,7 @@ Repo to track my leetcode progress
 | [0043-multiply-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/100percentBAKA/leetcode-learner/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/100percentBAKA/leetcode-learner/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/100percentBAKA/leetcode-learner/tree/master/0633-sum-of-square-numbers) |
@@ -131,6 +132,7 @@ Repo to track my leetcode progress
 | [0022-generate-parentheses](https://github.com/100percentBAKA/leetcode-learner/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/100percentBAKA/leetcode-learner/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/100percentBAKA/leetcode-learner/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 ## Database
 |  |
@@ -209,4 +211,8 @@ Repo to track my leetcode progress
 | [0496-next-greater-element-i](https://github.com/100percentBAKA/leetcode-learner/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0503-next-greater-element-ii) |
 | [2573-remove-nodes-from-linked-list](https://github.com/100percentBAKA/leetcode-learner/tree/master/2573-remove-nodes-from-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/100percentBAKA/leetcode-learner/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
