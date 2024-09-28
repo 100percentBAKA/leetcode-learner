@@ -136,6 +136,7 @@ Repo to track my leetcode progress
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/100percentBAKA/leetcode-learner/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/100percentBAKA/leetcode-learner/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/100percentBAKA/leetcode-learner/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/100percentBAKA/leetcode-learner/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/100percentBAKA/leetcode-learner/tree/master/0570-managers-with-at-least-5-direct-reports) |
