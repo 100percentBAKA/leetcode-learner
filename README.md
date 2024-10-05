@@ -146,6 +146,7 @@ Repo to track my leetcode progress
 | [0596-classes-more-than-5-students](https://github.com/100percentBAKA/leetcode-learner/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/100percentBAKA/leetcode-learner/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/100percentBAKA/leetcode-learner/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/100percentBAKA/leetcode-learner/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0627-swap-salary) |
 | [1155-product-sales-analysis-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/100percentBAKA/leetcode-learner/tree/master/1161-project-employees-i) |
