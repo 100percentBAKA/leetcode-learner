@@ -3,25 +3,27 @@
  * @return {number[][]}
  */
 var subsetsWithDup = function(nums) {
-    nums.sort((a, b) => b - a)
-    const set = new Set()
+    const result = []
+    const arr = []
 
-    for(let i = 0; i < Math.pow(2, nums.length); i++) {
-        const val = i.toString(2).padStart(nums.length, '0')
+    nums.sort((a, b) => a - b)
 
-        const arr = []
-        for(let j = 0; j < val.length; j++) {
-            if(val[j] === "1") {
-                arr.push(nums[j])
-            }
+    const func = function(index) {
+        if(index === nums.length) {
+            result.push([...arr])
+            return
         }
 
-        set.add(JSON.stringify(arr))
+        arr.push(nums[index])
+        func(index + 1)
+
+        const element = arr.pop()
+        while(index < nums.length && nums[index] === element) index++
+
+        func(index)
     }
 
-    const newResult = []
+    func(0)
 
-    Array.from(set).map(element => newResult.push(JSON.parse(element)))
-
-    return newResult
-}
+    return result
+};
