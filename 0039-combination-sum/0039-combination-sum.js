@@ -3,28 +3,29 @@
  * @param {number} target
  * @return {number[][]}
  */
-var combinationSum = function(candidates, target) {
-    const result = []
-    const arr = []
-
-    const ref = (index, k) => {
-        if(index === candidates.length) return
-
-        if(k === 0) {
-            result.push([...arr])
-            return
-        }
-
-        if(candidates[index] <= k) {
-            arr.push(candidates[index])
-            ref(index, k - candidates[index])
-            arr.pop()
-        }
-
-        ref(index + 1, k)
+function ref(arr, k, index, srr, result) {
+    if(k == 0) {
+        result.push([...srr])
+        return
     }
 
-    ref(0, target)
+    if(index === arr.length) return
+
+    if(arr[index] <= k) {
+        srr.push(arr[index])
+        ref(arr, k - arr[index], index, srr, result)
+        srr.pop()
+    }
+    
+
+    ref(arr, k, index + 1, srr, result)
+}
+
+var combinationSum = function(candidates, target) {
+    const arr = []
+    const result = []
+
+    ref(candidates, target, 0, arr, result)
 
     return result
 };
