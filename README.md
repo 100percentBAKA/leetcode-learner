@@ -163,6 +163,7 @@ Repo to track my leetcode progress
 | [1338-queries-quality-and-percentage](https://github.com/100percentBAKA/leetcode-learner/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/100percentBAKA/leetcode-learner/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/100percentBAKA/leetcode-learner/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/100percentBAKA/leetcode-learner/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/100percentBAKA/leetcode-learner/tree/master/1480-movie-rating) |
 | [1523-capital-gainloss](https://github.com/100percentBAKA/leetcode-learner/tree/master/1523-capital-gainloss) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/100percentBAKA/leetcode-learner/tree/master/1773-percentage-of-users-attended-a-contest) |
