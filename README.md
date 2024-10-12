@@ -71,6 +71,7 @@ Repo to track my leetcode progress
 | [0415-add-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/100percentBAKA/leetcode-learner/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/100percentBAKA/leetcode-learner/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/100percentBAKA/leetcode-learner/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2032-largest-odd-number-in-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/2032-largest-odd-number-in-string) |
@@ -142,6 +143,7 @@ Repo to track my leetcode progress
 | [0053-maximum-subarray](https://github.com/100percentBAKA/leetcode-learner/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/100percentBAKA/leetcode-learner/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
+| [1250-longest-common-subsequence](https://github.com/100percentBAKA/leetcode-learner/tree/master/1250-longest-common-subsequence) |
 ## Database
 |  |
 | ------- |
