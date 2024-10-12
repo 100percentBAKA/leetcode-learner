@@ -30,6 +30,7 @@ Repo to track my leetcode progress
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/100percentBAKA/leetcode-learner/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
@@ -43,6 +44,7 @@ Repo to track my leetcode progress
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/100percentBAKA/leetcode-learner/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
@@ -66,6 +68,7 @@ Repo to track my leetcode progress
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/100percentBAKA/leetcode-learner/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/100percentBAKA/leetcode-learner/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0415-add-strings) |
