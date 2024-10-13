@@ -6,6 +6,7 @@ Repo to track my leetcode progress
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0039-combination-sum) |
@@ -30,6 +31,7 @@ Repo to track my leetcode progress
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/100percentBAKA/leetcode-learner/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/100percentBAKA/leetcode-learner/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0205-isomorphic-strings) |
