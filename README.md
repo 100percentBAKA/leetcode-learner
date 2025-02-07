@@ -20,6 +20,7 @@ Repo to track my leetcode progress
 | [0216-combination-sum-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/100percentBAKA/leetcode-learner/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/100percentBAKA/leetcode-learner/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/100percentBAKA/leetcode-learner/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/100percentBAKA/leetcode-learner/tree/master/0496-next-greater-element-i) |
@@ -38,6 +39,7 @@ Repo to track my leetcode progress
 | [0205-isomorphic-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/100percentBAKA/leetcode-learner/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/100percentBAKA/leetcode-learner/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/100percentBAKA/leetcode-learner/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/100percentBAKA/leetcode-learner/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
@@ -109,6 +111,7 @@ Repo to track my leetcode progress
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/100percentBAKA/leetcode-learner/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/100percentBAKA/leetcode-learner/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/100percentBAKA/leetcode-learner/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/100percentBAKA/leetcode-learner/tree/master/0633-sum-of-square-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/100percentBAKA/leetcode-learner/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -117,6 +120,7 @@ Repo to track my leetcode progress
 | [0015-3sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/100percentBAKA/leetcode-learner/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/100percentBAKA/leetcode-learner/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/100percentBAKA/leetcode-learner/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -203,6 +207,7 @@ Repo to track my leetcode progress
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/100percentBAKA/leetcode-learner/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/100percentBAKA/leetcode-learner/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
