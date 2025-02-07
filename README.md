@@ -27,6 +27,7 @@ Repo to track my leetcode progress
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/100percentBAKA/leetcode-learner/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/100percentBAKA/leetcode-learner/tree/master/1046-max-consecutive-ones-iii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/100percentBAKA/leetcode-learner/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/100percentBAKA/leetcode-learner/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
