@@ -22,6 +22,7 @@ Repo to track my leetcode progress
 | [0238-product-of-array-except-self](https://github.com/100percentBAKA/leetcode-learner/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/100percentBAKA/leetcode-learner/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/100percentBAKA/leetcode-learner/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/100percentBAKA/leetcode-learner/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/100percentBAKA/leetcode-learner/tree/master/0496-next-greater-element-i) |
@@ -125,6 +126,7 @@ Repo to track my leetcode progress
 | [0242-valid-anagram](https://github.com/100percentBAKA/leetcode-learner/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/100percentBAKA/leetcode-learner/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/100percentBAKA/leetcode-learner/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
