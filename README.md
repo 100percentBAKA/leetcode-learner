@@ -27,6 +27,7 @@ Repo to track my leetcode progress
 | [0435-non-overlapping-intervals](https://github.com/100percentBAKA/leetcode-learner/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/100percentBAKA/leetcode-learner/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/100percentBAKA/leetcode-learner/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/100percentBAKA/leetcode-learner/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0503-next-greater-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/100percentBAKA/leetcode-learner/tree/master/1034-subarrays-with-k-different-integers) |
@@ -46,6 +47,7 @@ Repo to track my leetcode progress
 | [0350-intersection-of-two-arrays-ii](https://github.com/100percentBAKA/leetcode-learner/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/100percentBAKA/leetcode-learner/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/100percentBAKA/leetcode-learner/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/100percentBAKA/leetcode-learner/tree/master/0500-keyboard-row) |
 | [0966-binary-subarrays-with-sum](https://github.com/100percentBAKA/leetcode-learner/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/100percentBAKA/leetcode-learner/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -82,6 +84,7 @@ Repo to track my leetcode progress
 | [0242-valid-anagram](https://github.com/100percentBAKA/leetcode-learner/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/100percentBAKA/leetcode-learner/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/100percentBAKA/leetcode-learner/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/100percentBAKA/leetcode-learner/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/100percentBAKA/leetcode-learner/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/100percentBAKA/leetcode-learner/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/100percentBAKA/leetcode-learner/tree/master/1460-number-of-substrings-containing-all-three-characters) |
